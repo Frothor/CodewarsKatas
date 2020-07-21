@@ -1,6 +1,6 @@
 # 6kyu_Decode_the_Morse_code
 
-Part of Series 1/3
+## Part of Series 1/3
 This kata is part of a series on the Morse code. After you solve this kata, you may move to the next one.
 
 In this kata you have to write a simple Morse code decoder. While the Morse code is now mostly superseded by voice and digital data communication channels, it still has its use in some applications around the world.
